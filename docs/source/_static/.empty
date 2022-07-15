@@ -1,0 +1,19 @@
+========================================
+Template
+========================================
+
+Template documentation.
+
+
+.. toctree::
+    :glob:
+    :maxdepth: 1
+    :caption: Installation
+
+    install
+
+
+Quick-start
+========================================
+
+Template for quick-start

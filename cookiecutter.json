@@ -1,0 +1,9 @@
+{
+    "project_name": "template",
+    "repo_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "author_name": "Joseph Enguehard",
+    "author_email": "joseph.enguehard@babylonhealth.com",
+    "github_username": "josephenguehard",
+    "description": "A short description of the project.",
+    "current_year": 2022
+}
