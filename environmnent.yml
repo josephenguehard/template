@@ -1,0 +1,18 @@
+name: {{ cookiecutter.repo_name }}
+channels:
+  - defaults
+  - pytorch
+  - conda-forge
+  - nvidia
+dependencies:
+  - python==3.9.7
+  - cudatoolkit==11.6
+  - pytorch==1.12.0
+  - git
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - pip:
+      - black
+      - flake8
